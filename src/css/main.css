@@ -63,6 +63,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   background-color: hsl(212deg, 45%, 89%);
 }
 
