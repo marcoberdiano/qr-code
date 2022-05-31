@@ -1,9 +1,9 @@
 import CardQr from "./CardQr";
 function App() {
   return (
-    <div>
+    <main>
       <CardQr/>
-    </div>
+    </main>
   );
 }
 
